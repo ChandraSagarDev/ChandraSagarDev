@@ -1,26 +1,38 @@
-<h3 align="center">Front-End Developer | Tech Enthusiast</h3>
+<h4 align="center">
+  <em>🚀 Front-End Developer | Tech Enthusiast | Creative Media Designer</em>
+</h4>
+
 
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student    
-- 🤝 Enjoy building & collaborating on tech solutions  
+- ⚡ Enjoy building & collaborating on tech solutions  
+- 🎨 Skilled in video editing, photo editing, and social media content creation  
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
 </p>
 
 ## 🛠️ Projects
 
 **Smart Electricity Monitoring System**  
-*Flask • Computer Vision • IoT*
+*Flask • Computer Vision • IoT*  
+
+**Medical Care & Delivery Using Drone (Website)**  
+*HTML • CSS • JavaScript*
 
 ## 📊 GitHub Stats
 
@@ -32,10 +44,18 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChandraSagarDev&theme=onedark&no-frame=true&row=1&column=6" />
+  <a href="https://github-profile-trophy.vercel.app/?username=ChandraSagarDev&theme=radical&row=1&column=6">
+    <img src="https://github-profile-trophy.vercel.app/?username=ChandraSagarDev&theme=radical&row=1&column=6" alt="ChandraSagarDev trophies"/>
+  </a>
 </p>
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sagar-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chandrasagar890@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chandra-sagar-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chandrasagar890@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
