@@ -37,14 +37,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandraSagarDev&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandraSagarDev&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraSagarDev&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ChandraSagarDev&theme=radical&row=1&column=6">
+  <a href="https://github-profile-trophy.vercel.app/?username=ChandraSagarDev&theme=radical&row=1&column=6&cache_seconds=1800">
     <img src="https://github-profile-trophy.vercel.app/?username=ChandraSagarDev&theme=radical&row=1&column=6" alt="ChandraSagarDev trophies"/>
   </a>
 </p>
@@ -52,10 +52,6 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandra-sagar-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:chandrasagar890@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/chandra-sagar-dev"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://chandrasagardev.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
