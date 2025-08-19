@@ -1,5 +1,5 @@
 <h4 align="center">
-  <em>🚀 Front-End Developer | Tech Enthusiast | Creative Media Designer</em>
+  <em> Front-End Developer | Tech Enthusiast | Creative Media Designer</em>
 </h4>
 
 
