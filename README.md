@@ -1,6 +1,6 @@
-<h4 align="center">
+<h3 align="center">
   <em> Front-End Developer | Tech Enthusiast | Creative Media Designer</em>
-</h4>
+</h3>
 
 
 ## 🚀 About Me
