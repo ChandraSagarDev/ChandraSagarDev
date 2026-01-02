@@ -36,10 +36,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandraSagarDev&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraSagarDev&layout=compact&theme=react&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  
+![Sagar's GitHub Stats](https://github-readme-stats-one-zeta-64.vercel.app/api?username=ChandraSagarDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=00E5FF)
+![Top Langs](https://github-readme-stats-one-zeta-64.vercel.app/api/top-langs/?username=ChandraSagarDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF)
+
+</div>
 
 ## 🏆 GitHub Trophies
 
