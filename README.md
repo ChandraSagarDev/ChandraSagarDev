@@ -34,7 +34,7 @@
 **Medical Care & Delivery Using Drone (Website)**  
 *HTML • CSS • JavaScript*
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   
