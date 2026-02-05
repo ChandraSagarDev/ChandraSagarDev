@@ -43,15 +43,7 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ChandraSagarDev&theme=radical&row=1&column=6&cache_seconds=1800">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChandraSagarDev&theme=radical&row=1&column=6" alt="ChandraSagarDev trophies"/>
-  </a>
-</p>
-
-## 📬 Connect With Me
+## � Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandra-sagar-dev"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
